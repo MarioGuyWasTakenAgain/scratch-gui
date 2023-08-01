@@ -1,5 +1,8 @@
 # scratch-gui
 #### Scratch GUI is a set of React components that comprise the interface for creating and running Scratch 3.0 projects
+#### It's also even optimized, Since Scratch's lag can be annoying sometimes.
+
+EVERYTHING UNDER HERE IS NOT WRITTEN BY ME, ITS BY THE CREATOR WHO MADE THIS
 
 ## Installation
 This requires you to have Git and Node.js installed.
